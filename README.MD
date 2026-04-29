@@ -36,9 +36,7 @@ Sezar şifrelemesi, bir metindeki her harfin alfabede belirli bir sayı kadar ka
 ## ⚠️ Siber Güvenlik Notu
 Sezar şifrelemesi günümüz modern sistemleri için güvenli değildir. Sadece 29 olasılık (anahtar) bulunduğu için Kaba Kuvvet Saldırısı (Brute Force) ile saniyeler içinde kırılabilir. Bu proje tamamen eğitim amaçlıdır ve kriptografinin tarihsel gelişimini anlamak için tasarlanmıştır.
 
-👤 Geliştirici
-Bilal Arsoy
+## 👨‍💻 Geliştirici
+GitHub: [arsoybilal](https://github.com/arsoybilal)
 
-LinkedIn: linkedin.com/in/bilalarsoy
-
-GitHub: github.com/arsoybilal
+LinkedIn: https://www.linkedin.com/in/bilalarsoy
