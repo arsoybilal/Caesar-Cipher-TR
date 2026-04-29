@@ -25,7 +25,7 @@ Sezar şifrelemesi, bir metindeki her harfin alfabede belirli bir sayı kadar ka
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/proje-adiniz.git
+   git clone https://github.com/arsoybilal/Caesar-Cipher-TR.git
 2. Proje dizinine gidin:
    ```bash
    cd proje-adiniz
